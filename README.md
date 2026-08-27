@@ -4,7 +4,7 @@ An interactive remote-sensing digital twin application designed to model, simula
 
 ---
 
-## 📌 Features
+## Features
 
 * **Multi-Spectral Array Math:** Computes Normalized Difference Water Index (NDWI) and Normalized Difference Vegetation Index (NDVI) using element-wise array operations.
 * **Temporal & Spatial Controls:** Features dynamic sidebar sliders to select target years and spatial grid resolutions (100x100 to 300x300 pixels).
@@ -13,7 +13,7 @@ An interactive remote-sensing digital twin application designed to model, simula
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Web Framework:** Streamlit
@@ -22,7 +22,7 @@ An interactive remote-sensing digital twin application designed to model, simula
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
